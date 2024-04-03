@@ -1,0 +1,46 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/omar/ros2_foxy/install/zstd_vendor/include/**",
+        "/home/omar/ros2_foxy/install/kdl_parser/include/**",
+        "/home/omar/ros2_foxy/install/urdf/include/**",
+        "/home/omar/ros2_foxy/install/tracetools/include/**",
+        "/home/omar/ros2_foxy/install/tlsf/include/**",
+        "/home/omar/ros2_foxy/install/rcl_logging_spdlog/include/**",
+        "/home/omar/ros2_foxy/install/shared_queues_vendor/include/**",
+        "/home/omar/ros2_foxy/install/rviz_rendering/include/**",
+        "/home/omar/ros2_foxy/install/rttest/include/**",
+        "/home/omar/ros2_foxy/install/rosidl_typesupport_introspection_cpp/include/**",
+        "/home/omar/ros2_foxy/install/rosidl_typesupport_introspection_c/include/**",
+        "/home/omar/ros2_foxy/install/rmw/include/**",
+        "/home/omar/ros2_foxy/install/rosidl_runtime_c/include/**",
+        "/home/omar/ros2_foxy/install/rosidl_typesupport_interface/include/**",
+        "/home/omar/ros2_foxy/install/rosidl_runtime_cpp/include/**",
+        "/home/omar/ros2_foxy/install/resource_retriever/include/**",
+        "/home/omar/ros2_foxy/install/class_loader/include/**",
+        "/home/omar/ros2_foxy/install/rcpputils/include/**",
+        "/home/omar/ros2_foxy/install/rcl_logging_log4cxx/include/**",
+        "/home/omar/ros2_foxy/install/rcutils/include/**",
+        "/home/omar/ros2_foxy/install/performance_test_fixture/include/**",
+        "/home/omar/ros2_foxy/install/mimick_vendor/include/**",
+        "/home/omar/ros2_foxy/install/libyaml_vendor/include/**",
+        "/home/omar/ros2_foxy/install/console_bridge_vendor/include/**",
+        "/home/omar/ros2_foxy/install/ament_index_cpp/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/omar/course_ws/src/diff_bot/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
